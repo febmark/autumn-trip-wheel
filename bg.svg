@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1024" viewBox="0 0 1440 1024" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0.35" y2="1">
+      <stop offset="0" stop-color="#eaf3ff"/>
+      <stop offset="0.5" stop-color="#f6faff"/>
+      <stop offset="1" stop-color="#fff6ea"/>
+    </linearGradient>
+    <pattern id="dots" width="48" height="48" patternUnits="userSpaceOnUse">
+      <circle cx="7" cy="7" r="2.2" fill="#9fb8e0" opacity="0.16"/>
+    </pattern>
+  </defs>
+  <rect width="1440" height="1024" fill="url(#bg)"/>
+  <rect width="1440" height="1024" fill="url(#dots)"/>
+  <g opacity="0.5">
+    <circle cx="210" cy="180" r="190" fill="#cfe4ff"/>
+    <circle cx="1260" cy="240" r="230" fill="#ffe4c2"/>
+    <circle cx="1180" cy="880" r="180" fill="#d6e9ff"/>
+    <circle cx="240" cy="900" r="150" fill="#ffe9d8"/>
+  </g>
+  <g opacity="0.55" fill="#ffffff">
+    <circle cx="700" cy="120" r="10"/>
+    <circle cx="980" cy="520" r="7"/>
+    <circle cx="430" cy="640" r="8"/>
+    <circle cx="1120" cy="700" r="9"/>
+    <circle cx="320" cy="380" r="6"/>
+    <circle cx="900" cy="900" r="7"/>
+  </g>
+</svg>
